@@ -8,3 +8,6 @@ collections:
   uploads:
     title: Uploads
     output: true
+  left-feature:
+    title: left_feature
+    output: true
